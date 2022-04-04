@@ -1,10 +1,3 @@
-//
-//  FileViewController.swift
-//  AI Syndicate
-//
-//  Created by Ерасыл Кенесбек on 22.09.2021.
-//
-
 import UIKit
 import WebKit
 
