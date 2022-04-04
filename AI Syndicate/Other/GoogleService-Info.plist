@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>287537780518-jbhmos8qo4quf7ru1a648tqp4t30qnt8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.287537780518-jbhmos8qo4quf7ru1a648tqp4t30qnt8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtcw-N6DZI95MFtlIjLDmK5o0CAqGzGTA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>287537780518</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Blank.AI-Syndicate</string>
+	<key>PROJECT_ID</key>
+	<string>ai-syndicate-b562a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ai-syndicate-b562a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:287537780518:ios:811114a60da723288053e7</string>
+	<key>DATABASE_URL</key>
+	<string>https://ai-syndicate-b562a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
