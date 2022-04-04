@@ -1,9 +1,4 @@
-//
-//  MyPostTableViewCell.swift
-//  AI Syndicate
-//
-//  Created by Ерасыл Кенесбек on 27.09.2021.
-//
+
 
 import UIKit
 import SDWebImage
