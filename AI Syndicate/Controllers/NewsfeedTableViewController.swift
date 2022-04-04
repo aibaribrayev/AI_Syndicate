@@ -1,9 +1,3 @@
-//
-//  NewsfeedTableViewController.swift
-//  AI Syndicate
-//
-//  Created by Ерасыл Кенесбек on 28.08.2021.
-//
 
 import UIKit
 
