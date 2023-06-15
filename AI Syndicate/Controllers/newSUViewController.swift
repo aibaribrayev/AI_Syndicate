@@ -2,7 +2,7 @@
 //  newSUViewController.swift
 //  AI Syndicate
 //
-//  Created by Ерасыл Кенесбек on 30.08.2021.
+//  Created by Aibar Ibrayev on 30.08.2021.
 //
 
 import UIKit
