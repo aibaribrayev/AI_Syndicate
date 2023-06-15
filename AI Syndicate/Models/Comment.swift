@@ -2,7 +2,7 @@
 //  Comment.swift
 //  AI Syndicate
 //
-//  Created by Ерасыл Кенесбек on 21.09.2021.
+//  Created by Aibar Ibrayev on 21.09.2021.
 //
 
 import Foundation
