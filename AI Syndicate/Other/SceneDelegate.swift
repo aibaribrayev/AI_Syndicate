@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  AI Syndicate
 //
-//  Created by Ерасыл Кенесбек on 22.07.2021.
+//  Created by Aibar Ibayev on 22.07.2021.
 //
 
 import UIKit
