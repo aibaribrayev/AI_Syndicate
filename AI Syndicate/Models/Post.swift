@@ -2,7 +2,6 @@
 //  Post.swift
 //  AI Syndicate
 //
-//  Created by Ерасыл Кенесбек on 27.08.2021.
 //
 
 import Foundation
