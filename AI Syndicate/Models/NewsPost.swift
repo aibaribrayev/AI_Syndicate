@@ -2,7 +2,6 @@
 //  NewsPost.swift
 //  AI Syndicate
 //
-//  Created by Ерасыл Кенесбек on 19.09.2021.
 //
 
 import Foundation
