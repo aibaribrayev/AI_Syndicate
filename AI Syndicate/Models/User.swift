@@ -2,7 +2,7 @@
 //  User.swift
 //  AI Syndicate
 //
-//  Created by Ерасыл Кенесбек on 25.08.2021.
+//  Created by Aibar Ibrayev on 25.08.2021.
 //
 
 import Foundation
