@@ -2,7 +2,7 @@
 //  newsTableViewController.swift
 //  AI Syndicate
 //
-//  Created by Ерасыл Кенесбек on 07.09.2021.
+//  Created by Aibar Ibrayev on 07.09.2021.
 //
 
 import UIKit
